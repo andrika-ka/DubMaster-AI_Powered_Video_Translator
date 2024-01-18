@@ -32,6 +32,28 @@ To run the application, please open the Jupyter Notebook named **DubMaster_AI_Vi
 
 In this Jupyter Notebook you will find all the **important information** marked with `⚠️` that you should consider before running each cell. Careful attention to these instructions will ensure a smooth and successful experience when using our program. 
 
+
+**When using the DubMaster, it’s crucial to be aware of and respect copyright
+laws and regulations, especially when working with videos and audio files.
+Failure to do so can result in legal consequences.** 
+
+**Copyright Issues Related to Videos and Audio Files**
+1. Understanding Copyright:
+Copyright is a legal protection granted to the creators of original works,
+including videos, music, and audio recordings. It gives them exclusive
+rights to reproduce, distribute, and display their creations.Copyright
+protection is automatically granted when a work is created and fixed in
+a tangible medium.
+2. Licensing and Permissions:
+Before using videos or audio files in your translations, ensure that you
+have the necessary permissions or licenses to do so. Purchasing a
+license or obtaining written consent from the copyright holder is often
+required. Look for content that is explicitly labeled as "public domain"
+or under a Creative Commons license that permits the type of use you
+intend.
+
+⚠️ We are not liable for anything created with DubMaster. 
+
 When you're ready, let's get started with DubMaster
 
 <img src="https://cdn.dribbble.com/users/835519/screenshots/2651153/media/88df4e54e2a63400c340a18eaaab06e9.gif" width=200>

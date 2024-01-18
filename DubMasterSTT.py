@@ -60,7 +60,7 @@ class SpeechToText:
 
         # Set decoding options, for example, specifying the language as German
         options = {
-            "language": "de"}  # set German language as decode option, "task": "translate" only translates in English
+            "language": "de"}  # set German language as decode option
 
         # Transcribe the audio using the loaded model and decoding options
         result = model.transcribe(audio_path, **options)

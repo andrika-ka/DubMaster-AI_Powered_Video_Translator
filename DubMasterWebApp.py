@@ -41,6 +41,8 @@ class WebApplication:
         iface = gr.Interface(
             fn=translation_pipeline.pipeline,
             inputs=[gr.Video(label="Video hochladen"),
+                    # Here you can add other languages. If you e.g. want to add Spanish, then you have to
+                    # paste it into the Dropdown options like this: ["Turkish", "Hindi", "English", "Spanish]
                     gr.Dropdown(["Turkish", "Hindi", "English"], label="Zielsprache")],
             outputs=gr.Video(label="Übersetztes Video"),
         )

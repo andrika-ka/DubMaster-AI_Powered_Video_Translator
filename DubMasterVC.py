@@ -48,7 +48,10 @@ class VoiceCloning:
         tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2", progress_bar=False, gpu=True)
 
         lang = ""
-
+        # Here you can add other languages. If you e.g. added Spanish in the Gradio Dropdown menu,
+        # then you have to extend this list like this:
+        # elif target_language == "Spanish":
+        #   lang = "es"
         if target_language == "Turkish":
             lang = "tr"
         elif target_language == "Hindi":

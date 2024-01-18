@@ -25,6 +25,10 @@ class TextToText:
             text_content = file.read()
 
         # Mapping target language to language code for Google Translator
+        # Here you can add other languages. If you e.g. added Spanish in the Gradio Dropdown menu,
+        # then you have to extend this list like this:
+        # elif tgt_lang == 'Spanish':
+        #    target_lang = 'es'
         target_lang = ''
         if tgt_lang == 'Turkish':
             target_lang = 'tr'

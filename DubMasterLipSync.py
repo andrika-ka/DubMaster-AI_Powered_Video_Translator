@@ -24,7 +24,7 @@ class LipSynchronization:
         new_clip.write_videofile("muted_video.mp4")
 
         # Specify the path of the muted video file
-        video_file = "muted_video.mp4"
+        video_file = "/content/muted_video.mp4"
 
         # Record the end time
         end_time = time.time()

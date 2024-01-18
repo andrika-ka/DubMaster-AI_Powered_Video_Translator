@@ -26,7 +26,9 @@ Before you dive into the fascinating world of DubMaster, we want to make sure th
 
 The manual not only provides an overview of DubMaster's features and capabilities, but also detailed step-by-step instructions to ensure you get the most out of every feature. 
 
-To run the application, please open the Jupyter Notebook named **DubMaster_AI_Video_Translator.ipynb** in **Google Colab**.
+To run the application, please open the Jupyter Notebook named **DubMaster_AI_Video_Translator.ipynb** in **Google Colab** 
+
+<a href="https://github.com/Merve-Altuntas/DubMaster-AI_Powered_Video_Translator/blob/main/DubMaster_AI_Video_Translator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 In this Jupyter Notebook you will find all the **important information** marked with `⚠️` that you should consider before running each cell. Careful attention to these instructions will ensure a smooth and successful experience when using our program. 
 

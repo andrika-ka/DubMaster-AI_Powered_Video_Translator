@@ -61,9 +61,9 @@ When you're ready, let's get started with DubMaster
 ## Authors
 
 ### Merve Altuntaş
-* **Affiliation:** Student at Heilbronn University of Applied Sciences and Heidelberg University 
+* **Affiliation:** Master Student at Heilbronn University of Applied Sciences and Heidelberg University 
 * **Contact:** merve00altuntas@gmail.com 
 
 ### Andrika Deeka Kapoor
-* **Affiliation:** Student at Heilbronn University of Applied Sciences and Heidelberg University
+* **Affiliation:** Master Student at Heilbronn University of Applied Sciences and Heidelberg University
 * **Contact:** Andrika@hotmail.de 

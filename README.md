@@ -41,7 +41,7 @@ Failure to do so can result in legal consequences.**
 1. Understanding Copyright:
 Copyright is a legal protection granted to the creators of original works,
 including videos, music, and audio recordings. It gives them exclusive
-rights to reproduce, distribute, and display their creations.Copyright
+rights to reproduce, distribute, and display their creations. Copyright
 protection is automatically granted when a work is created and fixed in
 a tangible medium.
 2. Licensing and Permissions:
@@ -57,3 +57,13 @@ intend.
 When you're ready, let's get started with DubMaster
 
 <img src="https://cdn.dribbble.com/users/835519/screenshots/2651153/media/88df4e54e2a63400c340a18eaaab06e9.gif" width=200>
+
+## Authors
+
+### Merve Altuntaş
+* **Affiliation:** Student at Heilbronn University of Applied Sciences and Heidelberg University 
+* **Contact:** merve00altuntas@gmail.com 
+
+### Andrika Deeka Kapoor
+* **Affiliation:** Student at Heilbronn University of Applied Sciences and Heidelberg University
+* **Contact:** Andrika@hotmail.de 

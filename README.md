@@ -2,6 +2,8 @@
 
 Welcome to DubMaster, your creative companion for the world of multilingual video dubbing! With DubMaster, you can easily translate your own short videos into the fascinating languages of 
 
+> 🧑‍💻 Co-developed by Merve Altuntaş & Andrika Kapoor 
+
 **Turkish**
 
 <img src="https://em-content.zobj.net/source/emojione/151/flag-for-turkey_1f1f9-1f1f7.png" width=50>

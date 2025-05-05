@@ -1,6 +1,6 @@
 # 🎬 DubMaster – AI-Powered Video Translator
 
-> Automatically translate, dub, and lip-sync short videos using AI – in **German**, **English**, **Hindi**, and **Turkish**.  
+Automatically translate, dub, and lip-sync short videos using AI – in **German**, **English**, **Hindi**, and **Turkish**.  
 > Co-developed by **Merve Altuntaş** and **Andrika Kapoor**
 
 

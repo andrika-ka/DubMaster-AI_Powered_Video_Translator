@@ -3,7 +3,7 @@
 > Automatically translate, dub, and lip-sync short videos using AI – in **German**, **English**, **Hindi**, and **Turkish**.  
 > Co-developed by **Merve Altuntaş** and **Andrika Kapoor**
 
----
+
 
 ## 🌍 Supported Languages
 
@@ -18,7 +18,7 @@ DubMaster helps you translate videos into:
 **English**  
 <img src="https://em-content.zobj.net/source/emojione/151/flag-for-united-states_1f1fa-1f1f8.png" width="40"/>
 
----
+
 
 ## 🎯 Project Summary
 
@@ -30,7 +30,7 @@ DubMaster is an AI-powered pipeline for **multilingual video translation**. It:
 
 This allows you to create natural, multilingual content without losing the personality of the speaker.
 
----
+
 
 ## ⚙️ How It Works
 
@@ -43,7 +43,7 @@ This allows you to create natural, multilingual content without losing the perso
 5. 👄 Match Lip Movements via Wav2Lip & Real-ESRGAN  
 6. 📽️ Combine Audio + Video into a final dubbed output
 
----
+
 
 ## 📘 User Manual
 
@@ -61,7 +61,7 @@ For a complete overview of DubMaster's features, instructions and legal consider
 📘 [DubMaster Manual (PDF)](https://github.com/andrika-ka/DubMaster-AI_Powered_Video_Translator/blob/main/Manual_DubMaster.pdf)
 
 
----
+
 
 ## ⚠️ Copyright Notice
 
@@ -71,7 +71,7 @@ When using DubMaster, you must respect copyright laws:
 - Use only public domain / Creative Commons content when uncertain
 - We are **not liable** for any misuse of this tool
 
----
+
 
 ## 👥 Authors
 
@@ -83,7 +83,7 @@ When using DubMaster, you must respect copyright laws:
 🎓 Master Student – Heilbronn University of Applied Sciences / Heidelberg University  
 📧 andrika@hotmail.de
 
----
+
 
 ## 🧑‍💻 Contributions
 
@@ -92,7 +92,7 @@ When using DubMaster, you must respect copyright laws:
 - **Merve Altuntaş**  
   → TTS synthesis, lip-sync integration, final system architecture
 
----
+
 
 ## ❤️ Our Vision
 

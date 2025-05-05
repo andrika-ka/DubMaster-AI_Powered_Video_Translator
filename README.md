@@ -84,16 +84,6 @@ When using DubMaster, you must respect copyright laws:
 📧 andrika@hotmail.de
 
 
-
-## 🧑‍💻 Contributions
-
-- **Andrika Kapoor**  
-  → Whisper integration (STT), translation logic, pipeline testing  
-- **Merve Altuntaş**  
-  → TTS synthesis, lip-sync integration, final system architecture
-
-
-
 ## ❤️ Our Vision
 
 DubMaster was developed to simplify **multilingual video creation** and promote **inclusive content** across borders.  
